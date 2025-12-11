@@ -29,7 +29,7 @@
 
 #### 🗄 Databases
 - MySQL  
-- (Add others if you use them, e.g. PostgreSQL, SQLite)
+- Oracle
 
 #### ⚙️ Tools & Platforms
 - Git & GitHub  
