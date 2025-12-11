@@ -1,48 +1,86 @@
-<article class="markdown-body entry-content container-lg f5" itemprop="text"><h2 dir="auto"><a id="user-content-hello-wave" class="anchor" aria-hidden="true" href="#hello-wave"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hello <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png"><img class="emoji" alt="wave" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png"></g-emoji></h2>
-<p dir="auto">Welcome to my Github profile!</p>
-<p dir="auto">I am <strong>Bappa Sutradhar</strong>, a <strong>Software Developer</strong> Based in Dhaka,Bangladesh. I am a Backend focused Full-stack Web Developer who can build you Full-stack Web Apps with PHP Laravel and Codeigniter.</p>
-<h4 dir="auto"><a id="user-content-technical-skills" class="anchor" aria-hidden="true" href="#technical-skills"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Technical Skills:</h4>
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Bappa Sutradhar</h1>
+<h3 align="center">Backend-focused Full-Stack Web Developer from Dhaka, Bangladesh</h3>
 
- 
-  ##### Programming
+---
 
-<p>
- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
- 
- 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
- 
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> 
-  
+### 👨‍💻 About Me
+
+- 💼 I’m a **Software Developer** specializing in **backend development**
+- 🧱 I build **full-stack web applications** using **PHP (Laravel & CodeIgniter)**
+- 🌱 Currently learning: **advanced Laravel features**, **RESTful APIs**, and **scalable architectures**
+- 💬 Ask me about: **PHP, Laravel, CodeIgniter, MySQL, JavaScript**
+- 📍 Based in: **Dhaka, Bangladesh**
+- 📫 How to reach me: **your-email@example.com** <!-- replace this -->
+
+---
+
+### 🛠 Tech Stack
+
+#### 💻 Programming Languages
+- PHP  
+- JavaScript  
+- HTML5, CSS3  
+
+#### 🧩 Frameworks & Libraries
+- Laravel  
+- CodeIgniter  
+- Bootstrap / Tailwind CSS (if you use one, keep it)  
+
+#### 🗄 Databases
+- MySQL  
+- (Add others if you use them, e.g. PostgreSQL, SQLite)
+
+#### ⚙️ Tools & Platforms
+- Git & GitHub  
+- Composer  
+- VS Code / PHPStorm  
+- XAMPP / Laragon / Local dev tools  
+
+---
+
+### 📌 What I Work On
+
+- 🔐 **Secure REST APIs** with authentication & authorization  
+- 🧮 **Business logic & backend services** using clean, maintainable code  
+- 🧾 **Admin dashboards** and custom CMS-style panels  
+- 🗃 **Database design** (migrations, relationships, query optimization)  
+- 🌐 **Full-stack apps** with responsive frontends and robust backends  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=bappasutradhar947&show_icons=true&theme=transparent" 
+    alt="Bappa's GitHub stats" 
+  />
 </p>
 
-##### Frameworks and Libraries
-
-<p> 
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
- <img src="https://img.shields.io/badge/Codeigniter-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> 
- <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> 
-  
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=bappasutradhar947&theme=transparent" 
+    alt="GitHub streak" 
+  />
 </p>
 
-##### Tools
-
-<p>
-<img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />    
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bappasutradhar947&layout=compact&theme=transparent" 
+    alt="Top languages" 
+  />
 </p>
 
-##### Databases
+---
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> 
- 
-</p>
+### 🤝 Let’s Connect
 
-  
-<p dir="auto"><strong>Thanks for visiting my profile <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"><img class="emoji" alt="heart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"></g-emoji></strong></p>
-</article>
+- 💼 Portfolio: *add your portfolio link here*  
+- 💌 Email: **your-email@example.com**  
+- 💬 Open to: freelance work, collaborations, and backend-heavy projects  
+
+---
+
+Thanks for visiting my profile ❤️  
+Feel free to ⭐ repositories you like or open an issue if you have suggestions!
