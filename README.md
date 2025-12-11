@@ -11,7 +11,7 @@
 - 🌱 Currently learning: **advanced Laravel features**, **RESTful APIs**, and **scalable architectures**
 - 💬 Ask me about: **PHP, Laravel, CodeIgniter, MySQL, Oracle, JavaScript**
 - 📍 Based in: **Dhaka, Bangladesh**
-- 📫 How to reach me: sutradhar019@gmail.com
+- 📫 How to reach me: **sutradhar019@gmail.com**
 
 ---
 
@@ -25,7 +25,7 @@
 #### 🧩 Frameworks & Libraries
 - Laravel  
 - CodeIgniter  
-- Bootstrap / Tailwind CSS (if you use one, keep it)  
+- Bootstrap / Tailwind CSS  
 
 #### 🗄 Databases
 - MySQL  
@@ -49,35 +49,12 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=bappasutradhar947&show_icons=true&theme=transparent" 
-    alt="Bappa's GitHub stats" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=bappasutradhar947&theme=transparent" 
-    alt="GitHub streak" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bappasutradhar947&layout=compact&theme=transparent" 
-    alt="Top languages" 
-  />
-</p>
-
----
-
 ### 🤝 Let’s Connect
 
-- 💼 Portfolio: *add your portfolio link here*  
-- 💌 Email: **your-email@example.com**  
+- 💼 LinkedIn: https://www.linkedin.com/in/bappa-sutradhar-94261b160/  
+- 📘 Facebook: https://www.facebook.com/bappa040976/  
+- 📧 Email: **sutradhar019@gmail.com**  
+- 📞 Phone: **+8801928040976**  
 - 💬 Open to: freelance work, collaborations, and backend-heavy projects  
 
 ---
