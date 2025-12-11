@@ -9,9 +9,9 @@
 - 💼 I’m a **Software Developer** specializing in **backend development**
 - 🧱 I build **full-stack web applications** using **PHP (Laravel & CodeIgniter)**
 - 🌱 Currently learning: **advanced Laravel features**, **RESTful APIs**, and **scalable architectures**
-- 💬 Ask me about: **PHP, Laravel, CodeIgniter, MySQL, JavaScript**
+- 💬 Ask me about: **PHP, Laravel, CodeIgniter, MySQL, Oracle, JavaScript**
 - 📍 Based in: **Dhaka, Bangladesh**
-- 📫 How to reach me: **your-email@example.com** <!-- replace this -->
+- 📫 How to reach me: sutradhar019@gmail.com
 
 ---
 
