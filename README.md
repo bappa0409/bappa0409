@@ -11,33 +11,8 @@
 - 🌱 Currently learning: **advanced Laravel features**, **RESTful APIs**, and **scalable architectures**
 - 💬 Ask me about: **PHP, Laravel, CodeIgniter, MySQL, Oracle, JavaScript**
 - 📍 Based in: **Dhaka, Bangladesh**
-- 📫 How to reach me: **sutradhar019@gmail.com**
-
----
-
-### 🛠 Tech Stack
-
-#### 💻 Programming Languages
-- PHP  
-- JavaScript  
-- HTML5, CSS3  
-
-#### 🧩 Frameworks & Libraries
-- Laravel  
-- CodeIgniter  
-- Bootstrap / Tailwind CSS  
-
-#### 🗄 Databases
-- MySQL  
-- Oracle
-
-#### ⚙️ Tools & Platforms
-- Git & GitHub  
-- Composer  
-- VS Code / PHPStorm  
-- XAMPP / Laragon / Local dev tools  
-
----
+- 📫 How to reach me: **sutradhar019@gmail.com** Phone: **+8801928040976** 
+- 💬 Open to: freelance work, collaborations, and backend-heavy projects 
 
 ### 📌 What I Work On
 
@@ -46,16 +21,6 @@
 - 🧾 **Admin dashboards** and custom CMS-style panels  
 - 🗃 **Database design** (migrations, relationships, query optimization)  
 - 🌐 **Full-stack apps** with responsive frontends and robust backends  
-
----
-
-### 🤝 Let’s Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/in/bappa-sutradhar-94261b160/  
-- 📘 Facebook: https://www.facebook.com/bappa040976/  
-- 📧 Email: **sutradhar019@gmail.com**  
-- 📞 Phone: **+8801928040976**  
-- 💬 Open to: freelance work, collaborations, and backend-heavy projects  
 
 ---
 
